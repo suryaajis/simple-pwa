@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Also deployed with netlify [Weatheries](https://weatheries.netlify.app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and deployed with netlify [Weatheries](https://weatheries.netlify.app).
 
 ## Available Scripts
 
